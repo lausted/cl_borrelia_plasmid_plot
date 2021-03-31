@@ -1,2 +1,3 @@
-# cl_borrelia_plasmid_plot
-Simple graphical representation of Borrelia plasmids using Matplotlib.
+# Borrelia Plasmid Plotter
+
+A tool to create simple graphical representations of Borrelia plasmids using Matplotlib.
